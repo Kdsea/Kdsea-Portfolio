@@ -9,7 +9,7 @@
 
 body {
     font-family: 'Roboto', sans-serif;
-    background-color: var(--escuro);
+    background: linear-gradient(to bottom, var(--escuro), #2c2c2c);
     color: var(--cor-texto);
     line-height: 1.6;
     margin: 0;
